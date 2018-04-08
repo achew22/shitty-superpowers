@@ -5,6 +5,11 @@ A repository of the worlds shittiest super powers
  *  The ability to make other people itchy
  *  The ability to stir liquids from great distances
  *  The ability to make your enemies crave enchiladas
+ *  The ability to seduce a slice of cheese
+ *  The ability to read your own mind
+ *  The ability to remotely control a remote control
+ *  The ability to induce optimism in others
+ *  The ability to know the color of the next gumball to pop out of the machine
 
 Got more? Send a [pull request](https://github.com/achew22/shitty-superpowers/edit/master/README.md)
 
