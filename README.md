@@ -10,6 +10,7 @@ A repository of the worlds shittiest super powers
  *  The ability to remotely control a remote control
  *  The ability to induce optimism in others
  *  The ability to know the color of the next gumball to pop out of the machine
+ *  The ability to know which size tupperware you're going to need
 
 Got more? Send a [pull request](https://github.com/achew22/shitty-superpowers/edit/master/README.md)
 
